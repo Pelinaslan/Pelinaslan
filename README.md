@@ -1,4 +1,4 @@
-<h2>Hi there, I'm Pelin 👋</h2><br>
+<h2>Hi there, I'm Pelin 👋🏼</h2><br> 
 
 - 🔭 I’m currently working on offensive cybersecurity (mainly penetration testing.)
 - 🌱 I’m currently learning ios programming with swift. This means that you will soon see quality apps created by me in the app store.:zany_face:
