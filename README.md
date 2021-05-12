@@ -28,8 +28,6 @@
 
 <img align="left" style="margin-left:0.5em" alt="C" width="45px" src="https://www.flaticon.com/svg/vstatic/svg/3600/3600912.svg?token=exp=1620649644~hmac=a6e2b765ebf00ff84042e5c62f38dbbe" />
 
-<img align="left" style="margin-left:0.5em" alt="C#" width="45px" src="https://www.flaticon.com/svg/vstatic/svg/358/358879.svg?token=exp=1620652199~hmac=64f100f546aabcc9ad24b62a183afc60" />
-
 <img align="left" style="margin-left:0.5em" alt="Java" width="45px" src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1620650247~hmac=74c889e84f998ea8a656c830eb0ff9be" />
 
 <img align="left" style="margin-left:0.5em" alt="HTML" width="45px" src="https://www.flaticon.com/svg/vstatic/svg/888/888859.svg?token=exp=1620649775~hmac=d05cf258081e5a42bc4ab998eeeeee37" />
