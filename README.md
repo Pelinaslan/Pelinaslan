@@ -32,7 +32,7 @@
 
 <img align="left" style="margin-left:0.5em" alt="HTML" width="45px" src="https://www.flaticon.com/svg/vstatic/svg/888/888859.svg?token=exp=1620649775~hmac=d05cf258081e5a42bc4ab998eeeeee37" />
 
-<img align="left" style="margin-left:0.5em" alt="MySQL" width="45px" src="https://www.flaticon.com/svg/vstatic/svg/1199/1199128.svg?token=exp=1620649940~hmac=d92a183a0b458c1aa2e2a4a98602f10f" />
+<img align="left" style="margin-left:0.5em" alt="MySQL" width="45px" src="https://www.flaticon.com/svg/vstatic/svg/274/274437.svg?token=exp=1620918713~hmac=9b062cb9eff06f904151442dbfb8c7dd" />
 
 <img align="left" style="margin-left:0.5em" alt="SQL" width="45px" src="https://www.flaticon.com/svg/vstatic/svg/2772/2772128.svg?token=exp=1620653742~hmac=b28a00467f9cba56a58cae0daaf49e2e" />
 
