@@ -8,33 +8,12 @@
 
 ### Contact With Me : 
 
-[<img align="left" style="margin-left:1.0em"  alt="pelinaslan | LinkedIn" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/408/408703.svg?token=exp=1620648893~hmac=d3b55b42531a4cdfe6fe8b0621a14f65"/>][Linkedin] 
-
-[linkedin]: https://www.linkedin.com/in/pelin-aslan-87954518b/
 
 
 <a href="mailto:pelinnasln@gmail.com" ><img width="33px" align="left" style="margin-left:1.0em" alt="pelinaslan | LinkedIn" src="https://www.flaticon.com/svg/vstatic/svg/1295/1295555.svg?token=exp=1620648609~hmac=d28da3888c08f46455e44f4720679ced"/><a/>
   
 
-<br>
-<br>
-<hr />
 
-### Languages and Tools :woman_technologist: :
-
-<img align="left" style="margin-left:0.5em" alt="Python" width="45px" src="https://www.flaticon.com/svg/vstatic/svg/1387/1387537.svg?token=exp=1620649198~hmac=3a6911ad07041140485a627c85d46a96" />
-
-<img align="left" style="margin-left:0.5em" alt="Swift" width="45px" src="https://www.flaticon.com/svg/vstatic/svg/919/919833.svg?token=exp=1620649222~hmac=3b0b9f8dae7ea0308d17bc872a9f2583" />
-
-<img align="left" style="margin-left:0.5em" alt="C" width="45px" src="https://www.flaticon.com/svg/vstatic/svg/3600/3600912.svg?token=exp=1620649644~hmac=a6e2b765ebf00ff84042e5c62f38dbbe" />
-
-<img align="left" style="margin-left:0.5em" alt="Java" width="45px" src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1620650247~hmac=74c889e84f998ea8a656c830eb0ff9be" />
-
-<img align="left" style="margin-left:0.5em" alt="HTML" width="45px" src="https://www.flaticon.com/svg/vstatic/svg/888/888859.svg?token=exp=1620649775~hmac=d05cf258081e5a42bc4ab998eeeeee37" />
-
-<img align="left" style="margin-left:0.5em" alt="MySQL" width="45px" src="https://www.flaticon.com/svg/vstatic/svg/274/274437.svg?token=exp=1620918713~hmac=9b062cb9eff06f904151442dbfb8c7dd" />
-
-<img align="left" style="margin-left:0.5em" alt="SQL" width="45px" src="https://www.flaticon.com/svg/vstatic/svg/2772/2772128.svg?token=exp=1620653742~hmac=b28a00467f9cba56a58cae0daaf49e2e" />
 
 
 <br>
