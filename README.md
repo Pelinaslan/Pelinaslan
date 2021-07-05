@@ -17,8 +17,6 @@
 <br>
 <hr />
   
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pelinaslan)](https://github.com/Pelinaslan/Pelinaslan/edit/main/README.md)
   
 ![Pelin ASLAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=pelinaslan&show_icons=true&theme=cobalt&title_color=ff6a00&bg_color=ffeadb&text_color=1c2887&border_color=ffff84&icon_color=333333)
 
