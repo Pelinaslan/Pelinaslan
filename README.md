@@ -8,15 +8,11 @@
 
 ### Contact With Me : 
 
-
-
-<a href="mailto:pelinnasln@gmail.com" ><img width="33px" align="left" style="margin-left:1.0em" alt="pelinaslan | LinkedIn" src="https://www.flaticon.com/svg/vstatic/svg/1295/1295555.svg?token=exp=1620648609~hmac=d28da3888c08f46455e44f4720679ced"/><a/>
+<a href="https://www.linkedin.com/in/pelin-aslan/" ><img width="33px" align="left" style="margin-left:1.0em" alt="pelinaslan | LinkedIn" src="https://image.flaticon.com/icons/png/512/174/174857.png"/><a/>  
   
+<a href="mailto:pelinnasln@gmail.com" ><img width="33px" align="left" style="margin-left:1.0em" alt="pelinaslan | gmail" src="https://image.flaticon.com/icons/png/512/732/732200.png"/><a/>  
+ 
 
-
-
-
-<br>
 <br>
 <br>
 <hr />
