@@ -24,5 +24,7 @@
 <br>
 
 <hr />
+  
+<img src="https://hackster.imgix.net/uploads/attachments/1097058/Dino_non-birthday_version-1.gif" width="1000" height="200" />
 
 ![](https://komarev.com/ghpvc/?username=your-github-Pelinaslan&style=plastic&color=orange)
