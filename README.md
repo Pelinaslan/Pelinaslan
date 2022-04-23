@@ -8,9 +8,9 @@
 
 ### Contact With Me : 
 
-<a href="https://www.linkedin.com/in/pelin-aslan/" ><img width="33px" align="left" style="margin-left:1.0em" alt="pelinaslan | LinkedIn" src="https://image.flaticon.com/icons/png/512/174/174857.png"/><a/>  
+<a href="https://www.linkedin.com/in/pelin-aslan/" ><img width="33px" align="left" style="margin-left:1.0em" alt="pelinaslan | LinkedIn" src="https://img.icons8.com/nolan/344/linkedin-circled.png"/><a/>  
   
-<a href="mailto:pelinnasln@gmail.com" ><img width="33px" align="left" style="margin-left:1.0em" alt="pelinaslan | gmail" src="https://image.flaticon.com/icons/png/512/732/732200.png"/><a/>  
+<a href="mailto:pelinnasln@gmail.com" ><img width="33px" align="left" style="margin-left:1.0em" alt="pelinaslan | gmail" src="https://img.icons8.com/nolan/344/gmail-new.png"/><a/>  
  
 
 <br>
